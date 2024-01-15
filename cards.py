@@ -5,6 +5,10 @@ class Card:
 class Deck:
     cards = []
 
+    def __init__(self) -> None:
+        pass
+    
+
 # Kort kaladė
 # Korta: objektas
 # -- rank (2-9, T, J, Q, K, A)
