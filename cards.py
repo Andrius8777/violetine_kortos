@@ -1,3 +1,9 @@
+class Card:
+    def __init__(self) -> None:
+        pass
+
+
+
 # Kort kaladė
 # Korta: objektas
 # -- rank (2-9, T, J, Q, K, A)
@@ -14,3 +20,4 @@
 
 
 #startas
+#BALIO PAKEITIMAI
