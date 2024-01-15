@@ -8,6 +8,11 @@ class Deck:
     def __init__(self) -> None:
         pass
     
+def play_war(deck):
+    a_cards = deck[:len(deck)/2]
+    b_cards = deck[len(deck)/2:]
+    a_stash = []
+    b_stash = []
 
 # Kort kaladė
 # Korta: objektas
