@@ -2,7 +2,8 @@ class Card:
     def __init__(self) -> None:
         pass
 
-
+class Deck:
+    cards = []
 
 # Kort kaladė
 # Korta: objektas
