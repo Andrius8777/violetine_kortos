@@ -5,6 +5,12 @@ class Card:
 class Deck:
     cards = []
 
+def play_war(deck):
+    a_cards = deck[:len(deck)/2]
+    b_cards = deck[len(deck)/2:]
+    a_stash = []
+    b_stash = []
+
 # Kort kaladė
 # Korta: objektas
 # -- rank (2-9, T, J, Q, K, A)
