@@ -11,3 +11,6 @@
 # -- take from bottom
 # -- take random
 # mastom apie žaidimą
+
+
+#startas
